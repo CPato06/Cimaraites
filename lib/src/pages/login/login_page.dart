@@ -50,7 +50,7 @@ class _LoginPageState extends State<LoginPage> {
       child: Container(
         margin: EdgeInsets.only(bottom: 50),
         child: Text(
-          '¿No tienes cuenta?',
+          '¿No tienes cuentas?',
           style: TextStyle(
               fontSize: 15,
               color: Colors.grey
